@@ -46,5 +46,11 @@ Feel free to try the app and check the experience!
 ---
 
 ## 📸 Preview
+## 🖼️ Preview
+
+![Login Page](https://github.com/HusseinMatar/FrecciaBus/blob/main/WhatsApp%20Image%202025-05-08%20at%2012.41.25.jpeg?raw=true)
+![Search Page](https://github.com/HusseinMatar/FrecciaBus/blob/main/WhatsApp%20Image%202025-05-08%20at%2012.51.37%20(1).jpeg?raw=true)
+![Bookings List](https://github.com/HusseinMatar/FrecciaBus/blob/main/WhatsApp%20Image%202025-05-08%20at%2012.51.37%20(2).jpeg?raw=true)
+![Booking Summary PDF](https://github.com/HusseinMatar/FrecciaBus/blob/main/WhatsApp%20Image%202025-05-08%20at%2012.51.37.jpeg?raw=true)
 
 
