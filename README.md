@@ -45,7 +45,7 @@ Feel free to try the app and check the experience!
 
 ---
 
-## 📸 Preview
+
 ## 🖼️ Preview
 
 ![Login Page](https://github.com/HusseinMatar/FrecciaBus/blob/main/WhatsApp%20Image%202025-05-08%20at%2012.41.25.jpeg?raw=true)
